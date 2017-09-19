@@ -3,7 +3,8 @@
 
 int main(void)
 {
-	printf("123\n");
+	printf("Welcome to C!\n");
+	printf("My name is ±äµ{´I\n");
 	system("pause");
 
 	return(0);
