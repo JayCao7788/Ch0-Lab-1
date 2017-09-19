@@ -3,7 +3,8 @@
 
 int main(void)
 {
-	printf("123\n");
+	printf("Welcome to C!\n");
+	printf("My student id is: 106360203\n");
 	system("pause");
 
 	return(0);
